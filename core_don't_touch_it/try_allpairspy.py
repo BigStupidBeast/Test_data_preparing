@@ -1,5 +1,7 @@
 from allpairspy import AllPairs
 
+#https://pypi.org/project/allpairspy/#basic-usage
+
 parameters = [
     ["Brand X", "Brand Y"],
     ["98", "NT", "2000", "XP"],
